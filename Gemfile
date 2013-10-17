@@ -45,6 +45,7 @@ end
 
 gem 'rails_dba', github: 'vlado/rails_dba'
 gem 'faker', require: false
+gem 'unicorn'
 
 group :production do
   gem 'pg'
