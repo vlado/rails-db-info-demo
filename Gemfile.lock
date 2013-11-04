@@ -1,8 +1,8 @@
 GIT
-  remote: git://github.com/vlado/rails_dba.git
-  revision: abd9dac744cc33314dfacc479467f2752ac750f8
+  remote: git://github.com/vlado/rails_db_info.git
+  revision: 749914f40a1054033bc65eec168cc152e07e8cbc
   specs:
-    rails_dba (0.0.1)
+    rails_db_info (0.0.1)
       rails (~> 4.0.0)
 
 GEM
@@ -138,7 +138,7 @@ DEPENDENCIES
   pg
   rails (= 4.0.0)
   rails_12factor
-  rails_dba!
+  rails_db_info!
   sass-rails (~> 4.0.0)
   sdoc
   sqlite3
