@@ -43,7 +43,7 @@ end
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-gem 'rails_db_info', '0.1.8'
+gem 'rails_db_info', '0.1.9'
 gem 'faker', require: false
 gem 'unicorn'
 
