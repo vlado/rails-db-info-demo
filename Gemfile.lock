@@ -69,7 +69,6 @@ GEM
     mini_mime (1.0.1)
     mini_portile2 (2.4.0)
     minitest (5.11.3)
-    newrelic_rpm (3.14.3.313)
     nio4r (2.3.1)
     nokogiri (1.10.3)
       mini_portile2 (~> 2.4.0)
@@ -156,7 +155,6 @@ PLATFORMS
 
 DEPENDENCIES
   faker
-  newrelic_rpm
   pg
   rails (= 5.2.3)
   rails_12factor
